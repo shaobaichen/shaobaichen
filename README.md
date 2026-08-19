@@ -1,10 +1,20 @@
 <div align="center">
 
-# Hi, I'm White 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+White+%F0%9F%91%8B;Unity+Game+Developer+%F0%9F%8E%AE;Building+YAN%3A+The+Forgotten+Mask;Exploring+AI+%C3%97+Game+Development" alt="Typing SVG" />
 
-### 🎮 Unity Game Developer | 🤖 AI × Game Development
+<br>
 
-**Building games, systems and AI-assisted development workflows.**
+### 🎮 Unity Game Developer · Gameplay Programmer · AI × Game Development
+
+<p>
+Building games, gameplay systems and AI-assisted development workflows.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+</p>
 
 </div>
 
