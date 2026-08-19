@@ -22,17 +22,21 @@ Building games, gameplay systems and AI-assisted development workflows.
 
 ## 👨‍💻 About Me
 
-I'm a game developer focused on **Unity, C# and gameplay systems**.
+Hi, I'm **White**, a game development enthusiast focused on **Unity, C# and gameplay programming**.
 
-Currently working on an independent action RPG project:
+🎮 I'm currently developing **YAN: The Forgotten Mask / 《魇》**, an independent third-person Action RPG inspired by Chinese **Nuo culture, folk beliefs and mythology**.
 
-### 👺 YAN: The Forgotten Mask / 《魇》
+🤖 I'm also exploring **AI-assisted game development**, including multi-agent collaboration, automated development workflows, project knowledge systems and task verification.
 
-A Chinese folklore-inspired Action RPG based on **Nuo culture, folk beliefs and traditional Chinese mythology**.
+🧠 At the same time, I'm strengthening my computer science fundamentals through **C++ and LeetCode Hot 100**.
 
-I'm also exploring how **AI Agents and automated workflows** can assist real game development.
+### 🔭 Current Focus
 
----
+- 🎮 Unity gameplay programming
+- ⚔️ Action RPG combat systems
+- 👾 Enemy & Boss AI
+- 🏗️ Game architecture
+- 🤖 AI Agents × Game Development
 
 ## 🛠 Tech Stack
 
