@@ -1,175 +1,88 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+White+%F0%9F%91%8B;Unity+Game+Developer+%F0%9F%8E%AE;Building+YAN%3A+The+Forgotten+Mask;Exploring+AI+%C3%97+Game+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2900&pause=1000&color=6ACBFF&center=true&vCenter=true&width=850&height=75&lines=Hi%2C+I'm+White+%F0%9F%91%8B;Unity+Game+Developer+%F0%9F%8E%AE;Crafting+YAN%3A+The+Forgotten+Mask;Exploring+Multiplayer+Game+Systems;Code.+Create.+Play.+Repeat." alt="White 的动态打字欢迎标题" width="95%" />
+
+**Unity 游戏开发者 · Gameplay Programmer · Multiplayer Systems**
+
+你好，我是 **White**。喜欢游戏，也喜欢把自己的想法变成能真正运行的作品。  
+这里是我的**游戏与技术陈列室**：记录独立游戏创作、客户端开发和联机技术实践。
+
+<a href="https://github.com/shaobaichen">GitHub</a>　·　<a href="mailto:2767955151@qq.com">2767955151@qq.com</a>
+
+</div>
+
+---
+
+## 🎮 Featured Works · 我的作品陈列室
+
+每个项目都有属于自己的世界。点进对应的作品仓库，可以了解更完整的技术实现。
+
+### 01 · 《魇》 YAN: The Forgotten Mask
+
+<img src="assets/yan-exhibit-v2.webp" alt="《魇》独立游戏展柜：民俗志怪主题背景配开发中游戏主菜单、角色场景、行囊界面截图" width="100%" />
+
+**中式民俗志怪题材 · 第三人称动作 RPG**　`Unity 6` `C#` `URP` `WIP / 开发中`
+
+《魇》是我正在制作的独立游戏与毕业设计，灵感来自中国傩文化、传统民俗及志怪想象。当前主要推进无归村关卡、角色与场景表现、交互界面以及动作玩法原型。
+
+<sub>展柜背景为氛围设计图；其中的主菜单、角色场景与行囊画面来自实际 Unity 开发截图，经过裁切处理。目前项目仍在持续制作中，不代表全部玩法已经完成。</sub>
+
+<details>
+<summary>📷 再看一张《魇》的开发中画面：无归村休整点</summary>
+
+<img src="assets/yan-restpoint.webp" alt="《魇》无归村休整点开发画面，仍有临时占位模型" width="100%" />
+
+<sub>包含尚未替换的占位模型，展示的是开发过程而非最终版本。</sub>
+
+</details>
+
+> 《魇》目前尚未公开完整源码。后续会在这里补充独立项目展示页、实机演示与开发记录。
 
 <br>
 
-### 🎮 Unity Game Developer · Gameplay Programmer · AI × Game Development
+### 02 · Lockstep Arena
 
-<p>
-Building games, gameplay systems and AI-assisted development workflows.
-</p>
+<a href="https://github.com/shaobaichen/LockstepArena_Portfolio"><img src="assets/lockstep-exhibit-v2.webp" alt="Lockstep Arena 科技风项目展柜，展示帧同步、服务器权威、预测回滚和 Replay 技术方向" width="100%" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-</p>
+**1v1 帧同步局域网竞技场**　`Unity 6` `C#` `TCP` `Protobuf` `Client Prediction` `Rollback`
 
-</div>
+一个可游玩的多人联机技术项目。它将战斗规则从 Unity 表现层独立出来，由服务器发布完整权威输入帧；客户端支持有界预测、Dirty Frame 检测和状态回滚，并通过 StateDigest 与权威帧回放验证对局一致性。
 
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **White**, a game development enthusiast focused on **Unity, C# and gameplay programming**.
-
-🎮 I'm currently developing **YAN: The Forgotten Mask / 《魇》**, an independent third-person Action RPG inspired by Chinese **Nuo culture, folk beliefs and mythology**.
-
-🤖 I'm also exploring **AI-assisted game development**, including multi-agent collaboration, automated development workflows, project knowledge systems and task verification.
-
-🧠 At the same time, I'm strengthening my computer science fundamentals through **C++ and LeetCode Hot 100**.
-
-### 🔭 Current Focus
-
-- 🎮 Unity gameplay programming
-- ⚔️ Action RPG combat systems
-- 👾 Enemy & Boss AI
-- 🏗️ Game architecture
-- 🤖 AI Agents × Game Development
-
-## 🛠 Tech Stack
-
-### 🎮 Game Development
-
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gameplay%20Programming-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARPG-8A2BE2?style=for-the-badge" />
-</p>
-
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🔧 Tools & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
-
-### 🤖 AI & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Workflow-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
----
-# 🎮 Featured Projects
-
-## 👺 YAN: The Forgotten Mask / 《魇》
-
-> Chinese Folklore Action RPG
-
-An independent third-person Action RPG built with **Unity & C#**.
-
-The game draws inspiration from Chinese **Nuo culture, folk religion, ghost stories and traditional mythology**, building a world where ancient beliefs and supernatural folklore truly exist.
-
-**Key Areas**
-
-* Third-person Action RPG
-* Character Combat System
-* Nuo Mask Combat System
-* Enemy & Boss Design
-* Game Architecture
-* Chinese Folklore Worldbuilding
-
-`Unity` `C#` `URP` `ARPG` `Gameplay Programming`
-
-🚧 **Currently in development**
-
----
-
-## 🤖 AI Development Workflow
-
-> Multi-Agent AI Assisted Development System
-
-An experimental AI development workflow designed to assist real software and game production.
-
-The system explores how multiple AI agents can collaborate around development tasks, project knowledge, approval workflows and automated verification.
-
-**Key Areas**
-
-* Multi-Agent Collaboration
-* Development Task Workflow
-* Project Knowledge Base
-* Approval System
-* Automated Verification
-* Git / Workspace Integration
-
-`AI Agent` `LLM` `Python` `Docker` `PostgreSQL` `n8n` `Git`
-
-🚧 **Currently in development**
-
----
-
-## 🧠 Algorithm & Computer Science
-
-Currently studying **LeetCode Hot 100** and strengthening fundamentals in:
-
-* Data Structures
-* Algorithms
-* C++
-* Problem Solving
-* Computer Science Fundamentals
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaobaichen&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaobaichen&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚧 Currently
-
-* 🎮 Developing **YAN: The Forgotten Mask**
-* 🤖 Building an **AI-assisted game development workflow**
-* 🧠 Studying **LeetCode Hot 100**
-* 📚 Learning game architecture and gameplay programming
-
----
-
-## 📫 Contact
+<a href="https://github.com/shaobaichen/LockstepArena_Portfolio"><img src="https://raw.githubusercontent.com/shaobaichen/LockstepArena_Portfolio/main/Docs/Media/hero-battle.png" alt="Lockstep Arena Windows 正式版本的实际游戏战斗截图" width="100%" /></a>
 
 <p align="center">
-
-<a href="https://github.com/shaobaichen">
-<img src="https://img.shields.io/badge/GitHub-shaobaichen-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/shaobaichen/LockstepArena_Portfolio/main/Docs/Media/diagnostics.png" alt="Lockstep Arena 的 F1 帧同步诊断界面" width="49%" />
+  <img src="https://raw.githubusercontent.com/shaobaichen/LockstepArena_Portfolio/main/Docs/Media/replay.png" alt="Lockstep Arena 的离线权威帧回放界面" width="49%" />
 </p>
+
+<sub>左：状态诊断 / Diagnostics　·　右：权威帧回放 / Authoritative Replay。上方均为正式 Windows Player 版本的真实截图；科技展签为装饰性设计图。</sub>
+
+**🔗 [查看 LockstepArena_Portfolio：正式源码、架构说明与运行指南 →](https://github.com/shaobaichen/LockstepArena_Portfolio)**
+
+---
+
+## 🗂️ More Creations · 更多创作
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="assets/mini-moba.webp" alt="MOBA 客户端框架主题小展柜" width="100%" /><br><b>MOBA 客户端框架</b><br><sub>Unity · xLua · 热更新 · 社交系统</sub><br><sub>资料整理中</sub></td>
+<td width="33%" align="center"><img src="assets/mini-rogue.webp" alt="Roguelike 卡牌构筑游戏主题小展柜" width="100%" /><br><b>Roguelike 卡牌</b><br><sub>ScriptableObject · 卡牌构筑</sub><br><sub>资料整理中</sub></td>
+<td width="33%" align="center"><img src="assets/mini-ai.webp" alt="AI 工作流研究主题小展柜" width="100%" /><br><b>AI 开发探索</b><br><sub>Agent · 工作流 · 开发工具</sub><br><sub>持续研究中</sub></td>
+</tr>
+</table>
+
+这些项目的公开资料还在陆续整理；等仓库或演示页面准备好后，会补上可访问的链接。
+
+## 🛠️ Tech Stack · 技术与工具
+
+`Unity` · `C#` · `Lua / xLua` · `TCP / Protobuf` · `UGUI` · `AssetBundle` · `Git` · `C++ / LeetCode`
 
 ---
 
 <div align="center">
 
-### 🎮 Building games. Learning systems. Exploring AI.
+**Make games. Learn systems. Keep creating.**
+
+📬 **[2767955151@qq.com](mailto:2767955151@qq.com)**　·　**[github.com/shaobaichen](https://github.com/shaobaichen)**
 
 </div>
