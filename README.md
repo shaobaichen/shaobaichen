@@ -15,7 +15,7 @@
 
 ## 🎮 Featured Works · 我的作品陈列室
 
-每个项目都有属于自己的世界。点进对应的作品仓库，可以了解更完整的技术实现。
+每个项目都有属于自己的世界。公开项目可以进入仓库查看源码与技术实现；尚未公开的项目则先展示开发方向与进展。
 
 ### 01 · 《魇》 YAN: The Forgotten Mask
 
@@ -59,19 +59,32 @@
 
 **🔗 [查看 LockstepArena_Portfolio：正式源码、架构说明与运行指南 →](https://github.com/shaobaichen/LockstepArena_Portfolio)**
 
+<br>
+
+### 03 · MOBA Client Framework · 社交大厅客户端框架
+
+<img src="assets/moba-social-lobby-exhibit-v1.svg" alt="MOBA Client Framework 社交大厅客户端框架概念展柜：登录与大厅、好友在线状态和私聊，以及 TCP、Protobuf、xLua、AssetBundle 架构模块" width="100%" />
+
+**Unity 社交大厅与客户端基础框架 Demo**　`Unity 6` `C# / xLua` `TCP` `Protobuf` `AssetBundle` `Private / 尚未公开`
+
+这个项目聚焦游戏的**客户端大厅与社交体验**：注册登录、玩家信息展示、好友申请与在线状态、私聊和消息推送；底层按 UI、Lua 业务、网络与资源管理分层，并使用 MockServer 验证客户端交互链路。
+
+技术侧重点是 **C# 与 xLua 协作、TCP 长连接及 Protobuf 消息路由、AssetBundle 资源管理和版本更新流程**。它是客户端系统实践，不是已经完成英雄战斗、匹配或完整 MOBA 对局的游戏。
+
+<sub>图为根据项目模块绘制的概念化 UI 展柜，非 Unity 实机运行截图，具体界面和数据仅用于示意。仓库目前保持 Private；待代码、资源授权和公开展示资料核对完成后，再提供可供访客访问的源码入口。</sub>
+
 ---
 
 ## 🗂️ More Creations · 更多创作
 
 <table>
 <tr>
-<td width="33%" align="center"><img src="assets/mini-moba.webp" alt="MOBA 客户端框架主题小展柜" width="100%" /><br><b>MOBA 客户端框架</b><br><sub>Unity · xLua · 热更新 · 社交系统</sub><br><sub>资料整理中</sub></td>
-<td width="33%" align="center"><img src="assets/mini-rogue.webp" alt="Roguelike 卡牌构筑游戏主题小展柜" width="100%" /><br><b>Roguelike 卡牌</b><br><sub>ScriptableObject · 卡牌构筑</sub><br><sub>资料整理中</sub></td>
-<td width="33%" align="center"><img src="assets/mini-ai.webp" alt="AI 工作流研究主题小展柜" width="100%" /><br><b>AI 开发探索</b><br><sub>Agent · 工作流 · 开发工具</sub><br><sub>持续研究中</sub></td>
+<td width="50%" align="center"><img src="assets/mini-rogue.webp" alt="Roguelike 卡牌构筑游戏主题小展柜" width="100%" /><br><b>Roguelike 卡牌</b><br><sub>ScriptableObject · 卡牌构筑</sub><br><sub>资料整理中</sub></td>
+<td width="50%" align="center"><img src="assets/mini-ai.webp" alt="AI 工作流研究主题小展柜" width="100%" /><br><b>AI 开发探索</b><br><sub>Agent · 工作流 · 开发工具</sub><br><sub>持续研究中</sub></td>
 </tr>
 </table>
 
-这些项目的公开资料还在陆续整理；等仓库或演示页面准备好后，会补上可访问的链接。
+这些创作的展示资料仍在整理中；等仓库或演示页面准备好后，会补上可访问的链接。
 
 ## 🛠️ Tech Stack · 技术与工具
 

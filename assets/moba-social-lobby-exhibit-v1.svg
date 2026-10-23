@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860" role="img" aria-label="MOBA Client Framework 的社交大厅客户端项目概念展柜，展示登录大厅、好友私聊与技术模块">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#040B1E"/><stop offset=".55" stop-color="#0B1E44"/><stop offset="1" stop-color="#161A43"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102F59"/><stop offset=".48" stop-color="#091834"/><stop offset="1" stop-color="#10183B"/></linearGradient>
+<linearGradient id="golden" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A47935"/><stop offset=".5" stop-color="#FBE1A6"/><stop offset="1" stop-color="#B78440"/></linearGradient>
+<linearGradient id="blueBtn" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#337DE4"/><stop offset="1" stop-color="#1554AA"/></linearGradient>
+<linearGradient id="av1" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#2F5BAE"/><stop offset="1" stop-color="#84BFF6"/></linearGradient>
+<linearGradient id="av2" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#5B3B98"/><stop offset="1" stop-color="#A59CF9"/></linearGradient>
+<linearGradient id="av3" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#A96730"/><stop offset="1" stop-color="#F4C286"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#3A83FF" stop-opacity=".42"/><stop offset="1" stop-color="#3A83FF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#5492DB" stroke-opacity=".075"/></pattern>
+<filter id="bloom" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect x="0" y="0" width="1600" height="860" rx="0" fill="url(#bg)" stroke="none" stroke-width="1" />
+<rect x="0" y="0" width="1600" height="860" rx="0" fill="url(#grid)" stroke="none" stroke-width="1" />
+<circle cx="1180" cy="10" r="340" fill="url(#glow)" stroke="none" stroke-width="1"/>
+<circle cx="35" cy="28" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="214" cy="101" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="393" cy="174" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="572" cy="247" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="751" cy="320" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="930" cy="393" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1109" cy="466" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1288" cy="539" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1467" cy="612" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="119" cy="685" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="298" cy="758" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="477" cy="831" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="656" cy="64" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="835" cy="137" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1014" cy="210" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1193" cy="283" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1372" cy="356" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1551" cy="429" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="203" cy="502" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="382" cy="575" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="561" cy="648" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="740" cy="721" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="919" cy="794" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1098" cy="867" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1277" cy="100" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1456" cy="173" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="108" cy="246" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="287" cy="319" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="466" cy="392" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="645" cy="465" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="824" cy="538" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1003" cy="611" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1182" cy="684" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1361" cy="757" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1540" cy="830" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="192" cy="63" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="371" cy="136" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="550" cy="209" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="729" cy="282" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="908" cy="355" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1087" cy="428" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1266" cy="501" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="1445" cy="574" r="1.8" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<circle cx="97" cy="647" r="1" fill="#5FAAE8" stroke="none" stroke-width="1"/>
+<rect x="14" y="14" width="1572" height="832" rx="17" fill="none" stroke="#A37A49" stroke-width="1.2" />
+<line x1="24" y1="115" x2="1576" y2="115" stroke="#D1A45F" stroke-width="1.3" opacity="1"/>
+<line x1="25" y1="129" x2="1575" y2="129" stroke="#428BC8" stroke-width="1" opacity="1"/>
+<path d="M16 61 V17 H70 M1584 61 V17 H1528 M16 791 V843 H70 M1584 791 V843 H1528" fill="none" stroke="#F0C883" stroke-width="3"/>
+<path d="M 66 40 L 88 62 L 66 84 L 44 62 Z" fill="none" stroke="#F0D094" stroke-width="2"/>
+<path d="M 66 52 L 76 62 L 66 72 L 56 62 Z" fill="none" stroke="#69D2FE" stroke-width="2"/>
+<text x="106" y="57" fill="#F6E5C7" font-size="43" font-weight="700" font-family="Georgia, serif" letter-spacing="1">MOBA CLIENT FRAMEWORK</text>
+<text x="109" y="86" fill="#A7D5FB" font-size="17" font-weight="600" font-family="Arial, sans-serif" letter-spacing="4">SOCIAL LOBBY  /  CLIENT SYSTEMS</text>
+<text x="107" y="106" fill="#86A9D1" font-size="12" font-weight="500" font-family="Arial, sans-serif" letter-spacing="1.9">UNITY 6     ·     C# / xLua     ·     TCP / PROTOBUF     ·     ASSETBUNDLE</text>
+<text x="1530" y="66" fill="#F0D5A9" font-size="18" font-weight="600" font-family="Arial, sans-serif" text-anchor="end" letter-spacing="2">PORTFOLIO  /  03</text>
+<text x="1530" y="93" fill="#AAC3EB" font-size="13" font-weight="500" font-family="Arial, sans-serif" text-anchor="end" letter-spacing="1.3">CLIENT FRAMEWORK · NOT A FULL GAME</text>
+<rect x="900" y="104" width="18" height="12" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="909" cy="104" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="936" y="87" width="18" height="29" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="945" cy="87" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="972" y="70" width="18" height="46" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="981" cy="70" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1008" y="89" width="18" height="27" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1017" cy="89" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1044" y="72" width="18" height="44" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1053" cy="72" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1080" y="91" width="18" height="25" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1089" cy="91" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1116" y="74" width="18" height="42" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1125" cy="74" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1152" y="93" width="18" height="23" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1161" cy="93" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1188" y="76" width="18" height="40" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1197" cy="76" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1224" y="95" width="18" height="21" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1233" cy="95" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1260" y="78" width="18" height="38" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1269" cy="78" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1296" y="97" width="18" height="19" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1305" cy="97" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1332" y="80" width="18" height="36" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1341" cy="80" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1368" y="99" width="18" height="17" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1377" cy="99" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1404" y="82" width="18" height="34" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1413" cy="82" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="1440" y="101" width="18" height="15" rx="0" fill="#164475" stroke="none" stroke-width="1" />
+<circle cx="1449" cy="101" r="2.1" fill="#71D0FF" stroke="none" stroke-width="1"/>
+<rect x="35" y="150" width="455" height="636" rx="14" fill="url(#panel)" stroke="#4FB7FF" stroke-width="2" />
+<rect x="38" y="153" width="449" height="38" rx="10" fill="#0B1B3B" stroke="none" stroke-width="1" />
+<line x1="57" y1="191" x2="468" y2="191" stroke="#4FB7FF" stroke-width="1.6" opacity="0.65"/>
+<text x="59" y="181" fill="#E5BB79" font-size="18" font-weight="700" font-family="Arial, sans-serif" >01</text>
+<text x="99" y="181" fill="#F4F5FF" font-size="19" font-weight="700" font-family="Arial, sans-serif" >Login &amp; Hall</text>
+<text x="57" y="221" fill="#9CB8E6" font-size="13" font-weight="400" font-family="Arial, sans-serif" letter-spacing="1.1">ACCOUNT  /  ENTRY  /  MODULAR UI</text>
+<line x1="47" y1="162" x2="89" y2="162" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<line x1="436" y1="774" x2="478" y2="774" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<rect x="508" y="150" width="571" height="636" rx="14" fill="url(#panel)" stroke="#8BCAFF" stroke-width="2" />
+<rect x="511" y="153" width="565" height="38" rx="10" fill="#0B1B3B" stroke="none" stroke-width="1" />
+<line x1="530" y1="191" x2="1057" y2="191" stroke="#8BCAFF" stroke-width="1.6" opacity="0.65"/>
+<text x="532" y="181" fill="#E5BB79" font-size="18" font-weight="700" font-family="Arial, sans-serif" >02</text>
+<text x="572" y="181" fill="#F4F5FF" font-size="19" font-weight="700" font-family="Arial, sans-serif" >Social &amp; Chat</text>
+<text x="530" y="221" fill="#9CB8E6" font-size="13" font-weight="400" font-family="Arial, sans-serif" letter-spacing="1.1">FRIENDS  /  ONLINE STATUS  /  PRIVATE CHAT</text>
+<line x1="520" y1="162" x2="562" y2="162" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<line x1="1025" y1="774" x2="1067" y2="774" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<rect x="1097" y="150" width="468" height="636" rx="14" fill="url(#panel)" stroke="#4FB7FF" stroke-width="2" />
+<rect x="1100" y="153" width="462" height="38" rx="10" fill="#0B1B3B" stroke="none" stroke-width="1" />
+<line x1="1119" y1="191" x2="1543" y2="191" stroke="#4FB7FF" stroke-width="1.6" opacity="0.65"/>
+<text x="1121" y="181" fill="#E5BB79" font-size="18" font-weight="700" font-family="Arial, sans-serif" >03</text>
+<text x="1161" y="181" fill="#F4F5FF" font-size="19" font-weight="700" font-family="Arial, sans-serif" >Client Systems</text>
+<text x="1119" y="221" fill="#9CB8E6" font-size="13" font-weight="400" font-family="Arial, sans-serif" letter-spacing="1.1">NETWORK  /  LUA  /  RESOURCES</text>
+<line x1="1109" y1="162" x2="1151" y2="162" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<line x1="1511" y1="774" x2="1553" y2="774" stroke="#E5BB79" stroke-width="2" opacity="1"/>
+<rect x="53" y="252" width="168" height="343" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="54" y="253" width="166" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="67" y="273" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >LOGIN</text>
+<circle cx="201" cy="267" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="63" y1="284" x2="211" y2="284" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<rect x="76" y="308" width="122" height="108" rx="9" fill="url(#panel)" stroke="#1F4C85" stroke-width="1" />
+<path d="M 137 328 L 160 351 L 137 374 L 114 351 Z" fill="none" stroke="#D8B476" stroke-width="2"/>
+<path d="M 137 339 L 149 351 L 137 363 L 125 351 Z" fill="none" stroke="#60C2F4" stroke-width="2"/>
+<text x="137" y="394" fill="#F4E3C9" font-size="16" font-weight="700" font-family="Georgia, serif" text-anchor="middle">MOBA CLIENT</text>
+<text x="137" y="410" fill="#B5CFEE" font-size="11" font-weight="500" font-family="Arial, sans-serif" text-anchor="middle">FRAMEWORK</text>
+<rect x="70" y="437" width="132" height="29" rx="4" fill="#0D254B" stroke="#39689E" stroke-width="1" />
+<text x="84" y="457" fill="#97B7DD" font-size="12" font-weight="400" font-family="Arial, sans-serif" >Account</text>
+<rect x="70" y="477" width="132" height="29" rx="4" fill="#0D254B" stroke="#39689E" stroke-width="1" />
+<text x="84" y="497" fill="#97B7DD" font-size="12" font-weight="400" font-family="Arial, sans-serif" >Password</text>
+<circle cx="182" cy="491" r="4" fill="#74C7F5" stroke="none" stroke-width="1"/>
+<rect x="70" y="527" width="132" height="37" rx="6" fill="url(#golden)" stroke="none" stroke-width="1" />
+<text x="136" y="551" fill="#102343" font-size="14" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">SIGN IN</text>
+<rect x="230" y="252" width="242" height="343" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="231" y="253" width="240" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="244" y="273" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >GAME HALL</text>
+<circle cx="452" cy="267" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="240" y1="284" x2="462" y2="284" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<rect x="242" y="293" width="218" height="95" rx="6" fill="#143968" stroke="#406CA2" stroke-width="1" />
+<circle cx="352" cy="339" r="37" fill="#2C7BC9" stroke="#77D4FF" stroke-width="2"/>
+<circle cx="352" cy="339" r="22" fill="#276BB4" stroke="none" stroke-width="1"/>
+<path d="M 352 323 L 368 339 L 352 355 L 336 339 Z" fill="none" stroke="#FFE1A1" stroke-width="2"/>
+<path d="M240 390 L460 390 L460 490 L240 490 Z" fill="#0D2548"/>
+<text x="254" y="419" fill="#88A9D3" font-size="11" font-weight="700" font-family="Arial, sans-serif" >WELCOME BACK</text>
+<text x="254" y="449" fill="#F0EAD7" font-size="20" font-weight="700" font-family="Georgia, serif" >Player Lobby</text>
+<line x1="252" y1="463" x2="446" y2="463" stroke="#28558C" stroke-width="1" opacity="1"/>
+<text x="257" y="482" fill="#9CCDEB" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Profile   ·   Events   ·   Friends</text>
+<rect x="245" y="500" width="212" height="31" rx="6" fill="url(#blueBtn)" stroke="#58B7ED" stroke-width="1" />
+<text x="350" y="521" fill="#ECF8FF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">OPEN FRIENDS</text>
+<rect x="245" y="540" width="102" height="38" rx="5" fill="#14305B" stroke="#3F77AB" stroke-width="1" />
+<rect x="355" y="540" width="102" height="38" rx="5" fill="#14305B" stroke="#3F77AB" stroke-width="1" />
+<text x="296" y="564" fill="#BBD4F4" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">EVENTS</text>
+<text x="404" y="564" fill="#BBD4F4" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">PROFILE</text>
+<rect x="526" y="252" width="237" height="343" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="527" y="253" width="235" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="540" y="273" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >FRIENDS  ·  4 ONLINE</text>
+<circle cx="743" cy="267" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="536" y1="284" x2="753" y2="284" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<rect x="539" y="296" width="211" height="28" rx="6" fill="#0C2246" stroke="#315882" stroke-width="1" />
+<text x="553" y="315" fill="#779AC3" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Search a friend...</text>
+<rect x="539" y="333" width="211" height="48" rx="6" fill="#183B69" stroke="none" stroke-width="1" />
+<circle cx="565" cy="355" r="15" fill="url(#av1)" stroke="#88CFF7" stroke-width="1.4"/>
+<text x="565" y="360" fill="#F7FCFF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">A</text>
+<text x="589" y="352" fill="#EFF7FF" font-size="13" font-weight="600" font-family="Arial, sans-serif" >Aria</text>
+<circle cx="594" cy="370" r="3.2" fill="#51DEB1" stroke="none" stroke-width="1"/>
+<text x="605" y="374" fill="#9CB9D8" font-size="10" font-weight="400" font-family="Arial, sans-serif" >Online</text>
+<text x="736" y="357" fill="#5FBFF0" font-size="19" font-weight="700" font-family="Arial, sans-serif" text-anchor="end">›</text>
+<rect x="539" y="386" width="211" height="48" rx="6" fill="#0A2042" stroke="none" stroke-width="1" />
+<circle cx="565" cy="408" r="15" fill="url(#av2)" stroke="#88CFF7" stroke-width="1.4"/>
+<text x="565" y="413" fill="#F7FCFF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">K</text>
+<text x="589" y="405" fill="#EFF7FF" font-size="13" font-weight="600" font-family="Arial, sans-serif" >Kaito</text>
+<circle cx="594" cy="423" r="3.2" fill="#4CD4F8" stroke="none" stroke-width="1"/>
+<text x="605" y="427" fill="#9CB9D8" font-size="10" font-weight="400" font-family="Arial, sans-serif" >In lobby</text>
+<text x="736" y="410" fill="#5FBFF0" font-size="19" font-weight="700" font-family="Arial, sans-serif" text-anchor="end">›</text>
+<rect x="539" y="439" width="211" height="48" rx="6" fill="#0A2042" stroke="none" stroke-width="1" />
+<circle cx="565" cy="461" r="15" fill="url(#av3)" stroke="#88CFF7" stroke-width="1.4"/>
+<text x="565" y="466" fill="#F7FCFF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">N</text>
+<text x="589" y="458" fill="#EFF7FF" font-size="13" font-weight="600" font-family="Arial, sans-serif" >Nora</text>
+<circle cx="594" cy="476" r="3.2" fill="#51DEB1" stroke="none" stroke-width="1"/>
+<text x="605" y="480" fill="#9CB9D8" font-size="10" font-weight="400" font-family="Arial, sans-serif" >Online</text>
+<text x="736" y="463" fill="#5FBFF0" font-size="19" font-weight="700" font-family="Arial, sans-serif" text-anchor="end">›</text>
+<rect x="539" y="492" width="211" height="48" rx="6" fill="#0A2042" stroke="none" stroke-width="1" />
+<circle cx="565" cy="514" r="15" fill="url(#av2)" stroke="#88CFF7" stroke-width="1.4"/>
+<text x="565" y="519" fill="#F7FCFF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">E</text>
+<text x="589" y="511" fill="#EFF7FF" font-size="13" font-weight="600" font-family="Arial, sans-serif" >Echo</text>
+<circle cx="594" cy="529" r="3.2" fill="#6C7799" stroke="none" stroke-width="1"/>
+<text x="605" y="533" fill="#9CB9D8" font-size="10" font-weight="400" font-family="Arial, sans-serif" >Offline</text>
+<text x="736" y="516" fill="#5FBFF0" font-size="19" font-weight="700" font-family="Arial, sans-serif" text-anchor="end">›</text>
+<rect x="538" y="557" width="211" height="26" rx="5" fill="#133263" stroke="#4272A6" stroke-width="1" />
+<text x="642" y="575" fill="#9DDCFF" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">+  ADD FRIEND</text>
+<rect x="771" y="252" width="289" height="343" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="772" y="253" width="287" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="785" y="273" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >PRIVATE CHAT  ·  ARIA</text>
+<circle cx="1040" cy="267" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="781" y1="284" x2="1050" y2="284" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<circle cx="801" cy="308" r="15" fill="url(#av1)" stroke="#88CFF7" stroke-width="1.4"/>
+<text x="801" y="313" fill="#F7FCFF" font-size="13" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">A</text>
+<text x="822" y="306" fill="#F5F7FB" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Aria</text>
+<circle cx="826" cy="321" r="3" fill="#53E5B0" stroke="none" stroke-width="1"/>
+<text x="834" y="324" fill="#9CBDE1" font-size="10" font-weight="400" font-family="Arial, sans-serif" >Online</text>
+<rect x="789" y="359" width="203" height="53" rx="10" fill="#1B3860" stroke="#2E5B8E" stroke-width="1" />
+<text x="801" y="380" fill="#E5F0FE" font-size="13" font-weight="400" font-family="Arial, sans-serif" >Are you online?</text>
+<text x="801" y="398" fill="#B9CBDF" font-size="12" font-weight="400" font-family="Arial, sans-serif" >Want to catch up?</text>
+<rect x="841" y="429" width="202" height="51" rx="10" fill="url(#blueBtn)" stroke="#519FF3" stroke-width="1" />
+<text x="853" y="450" fill="#F6F9FF" font-size="13" font-weight="400" font-family="Arial, sans-serif" >Yes! I'm here.</text>
+<text x="853" y="466" fill="#E0F1FF" font-size="12" font-weight="400" font-family="Arial, sans-serif" >Let's chat.</text>
+<rect x="789" y="497" width="195" height="39" rx="10" fill="#1B3860" stroke="#2E5B8E" stroke-width="1" />
+<text x="800" y="522" fill="#E6F0FE" font-size="13" font-weight="400" font-family="Arial, sans-serif" >Sounds good!</text>
+<rect x="785" y="550" width="261" height="33" rx="7" fill="#0D254B" stroke="#4074AA" stroke-width="1" />
+<text x="798" y="572" fill="#8AB0D6" font-size="12" font-weight="400" font-family="Arial, sans-serif" >Type a message...</text>
+<circle cx="1025" cy="566" r="11" fill="#347FCE" stroke="none" stroke-width="1"/>
+<text x="1025" y="571" fill="#E7F5FF" font-size="19" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">›</text>
+<rect x="1115" y="252" width="432" height="164" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="1116" y="253" width="430" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="1129" y="273" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >MESSAGE PIPELINE</text>
+<circle cx="1527" cy="267" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="1125" y1="284" x2="1537" y2="284" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<rect x="1128" y="312" width="86" height="45" rx="6" fill="#102B50" stroke="#4B91CF" stroke-width="1.5" />
+<text x="1171" y="338" fill="#E7F3FC" font-size="14" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">C# UI</text>
+<line x1="1215" y1="335" x2="1228" y2="335" stroke="#64C7F6" stroke-width="2" opacity="1"/>
+<text x="1222" y="331" fill="#65C2F6" font-size="18" font-weight="700" font-family="Arial, sans-serif" >›</text>
+<rect x="1229" y="312" width="86" height="45" rx="6" fill="#123E69" stroke="#D0A864" stroke-width="1.5" />
+<text x="1272" y="338" fill="#E7F3FC" font-size="14" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">xLua</text>
+<line x1="1316" y1="335" x2="1329" y2="335" stroke="#64C7F6" stroke-width="2" opacity="1"/>
+<text x="1323" y="331" fill="#65C2F6" font-size="18" font-weight="700" font-family="Arial, sans-serif" >›</text>
+<rect x="1330" y="312" width="86" height="45" rx="6" fill="#102B50" stroke="#4B91CF" stroke-width="1.5" />
+<text x="1373" y="338" fill="#E7F3FC" font-size="14" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">Router</text>
+<line x1="1417" y1="335" x2="1430" y2="335" stroke="#64C7F6" stroke-width="2" opacity="1"/>
+<text x="1424" y="331" fill="#65C2F6" font-size="18" font-weight="700" font-family="Arial, sans-serif" >›</text>
+<rect x="1431" y="312" width="86" height="45" rx="6" fill="#102B50" stroke="#4B91CF" stroke-width="1.5" />
+<text x="1474" y="338" fill="#E7F3FC" font-size="14" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">TCP</text>
+<text x="1332" y="385" fill="#A7C6E8" font-size="11" font-weight="500" font-family="Arial, sans-serif" text-anchor="middle" letter-spacing="1">PROTOBUF  /  LENGTH-PREFIXED FRAMES</text>
+<rect x="1115" y="426" width="432" height="169" rx="10" fill="#081731" stroke="#39689F" stroke-width="1.4" />
+<rect x="1116" y="427" width="430" height="30" rx="10" fill="#10294F" stroke="none" stroke-width="1" />
+<text x="1129" y="447" fill="#BDD6FA" font-size="12" font-weight="600" font-family="Arial, sans-serif" >RESOURCE &amp; UPDATE FLOW</text>
+<circle cx="1527" cy="441" r="3" fill="#64C3FB" stroke="none" stroke-width="1"/>
+<line x1="1125" y1="458" x2="1537" y2="458" stroke="#2C578A" stroke-width="1" opacity="1"/>
+<circle cx="1153" cy="480" r="15" fill="#173D6B" stroke="#6FC9FC" stroke-width="2"/>
+<text x="1153" y="485" fill="#EAF7FF" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">13</text>
+<text x="1176" y="486" fill="#E2EEFA" font-size="11" font-weight="700" font-family="Arial, sans-serif" >CHECK VERSION</text>
+<line x1="1254" y1="480" x2="1266" y2="480" stroke="#68C9FF" stroke-width="1.5" opacity="1"/>
+<circle cx="1290" cy="480" r="15" fill="#173D6B" stroke="#6FC9FC" stroke-width="2"/>
+<text x="1290" y="485" fill="#EAF7FF" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">14</text>
+<text x="1313" y="486" fill="#E2EEFA" font-size="11" font-weight="700" font-family="Arial, sans-serif" >DOWNLOAD</text>
+<line x1="1391" y1="480" x2="1403" y2="480" stroke="#68C9FF" stroke-width="1.5" opacity="1"/>
+<circle cx="1427" cy="480" r="15" fill="#5B472C" stroke="#E5BB79" stroke-width="2"/>
+<text x="1427" y="485" fill="#EAF7FF" font-size="12" font-weight="700" font-family="Arial, sans-serif" text-anchor="middle">15</text>
+<text x="1450" y="486" fill="#E2EEFA" font-size="11" font-weight="700" font-family="Arial, sans-serif" >APPLY</text>
+<line x1="1132" y1="515" x2="1523" y2="515" stroke="#325F98" stroke-width="1" opacity="1"/>
+<rect x="1135" y="535" width="380" height="14" rx="7" fill="#0C2349" stroke="#2C659C" stroke-width="1" />
+<rect x="1137" y="537" width="232" height="10" rx="5" fill="url(#blueBtn)" stroke="none" stroke-width="1" />
+<text x="1135" y="571" fill="#AAC7E6" font-size="12" font-weight="400" font-family="Arial, sans-serif" >AssetBundle  ·  Lua script sources  ·  JSON configuration</text>
+<line x1="51" y1="614" x2="473" y2="614" stroke="#315B8F" stroke-width="1.1" opacity="1"/>
+<line x1="525" y1="614" x2="1061" y2="614" stroke="#315B8F" stroke-width="1.1" opacity="1"/>
+<line x1="1114" y1="614" x2="1549" y2="614" stroke="#315B8F" stroke-width="1.1" opacity="1"/>
+<text x="56" y="643" fill="#E7C68B" font-size="13" font-weight="700" font-family="Arial, sans-serif" letter-spacing="2">CLIENT ENTRY</text>
+<text x="530" y="643" fill="#E7C68B" font-size="13" font-weight="700" font-family="Arial, sans-serif" letter-spacing="2">SOCIAL EXPERIENCE</text>
+<text x="1119" y="643" fill="#E7C68B" font-size="13" font-weight="700" font-family="Arial, sans-serif" letter-spacing="2">TECHNICAL FOUNDATION</text>
+<rect x="53" y="666" width="205" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="81" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 81 688 L 87 694 L 81 700 L 75 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="102" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Account Flow</text>
+<text x="102" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Login / register</text>
+<rect x="266" y="666" width="205" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="294" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 294 688 L 300 694 L 294 700 L 288 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="315" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >UI Architecture</text>
+<text x="315" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Layered panels</text>
+<rect x="526" y="666" width="172" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="554" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 554 688 L 560 694 L 554 700 L 548 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="575" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Friends</text>
+<text x="575" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Request / status</text>
+<rect x="704" y="666" width="170" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="732" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 732 688 L 738 694 L 732 700 L 726 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="753" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Messages</text>
+<text x="753" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Private chat</text>
+<rect x="881" y="666" width="178" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="909" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 909 688 L 915 694 L 909 700 L 903 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="930" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Callbacks</text>
+<text x="930" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >Lua / C#</text>
+<rect x="1115" y="666" width="207" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="1143" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 1143 688 L 1149 694 L 1143 700 L 1137 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="1164" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Network</text>
+<text x="1164" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >TCP / Protobuf</text>
+<rect x="1330" y="666" width="217" height="68" rx="10" fill="#0B2247" stroke="#285889" stroke-width="1" />
+<circle cx="1358" cy="694" r="12" fill="#183962" stroke="#6DC8FF" stroke-width="2"/>
+<path d="M 1358 688 L 1364 694 L 1358 700 L 1352 694 Z" fill="none" stroke="#8DD7FF" stroke-width="2"/>
+<text x="1379" y="694" fill="#F5F3EE" font-size="15" font-weight="700" font-family="Arial, sans-serif" >Resources</text>
+<text x="1379" y="714" fill="#9EBCE0" font-size="11" font-weight="400" font-family="Arial, sans-serif" >AB / version check</text>
+<text x="265" y="767" fill="#B2D1EF" font-size="13" font-weight="600" font-family="Arial, sans-serif" text-anchor="middle" letter-spacing="2">UI MODULES</text>
+<text x="795" y="767" fill="#B2D1EF" font-size="13" font-weight="600" font-family="Arial, sans-serif" text-anchor="middle" letter-spacing="2">SOCIAL LOBBY CORE</text>
+<text x="1332" y="767" fill="#B2D1EF" font-size="13" font-weight="600" font-family="Arial, sans-serif" text-anchor="middle" letter-spacing="2">CLIENT INFRASTRUCTURE</text>
+<line x1="50" y1="810" x2="1550" y2="810" stroke="#AA7D48" stroke-width="1.2" opacity="1"/>
+<text x="52" y="830" fill="#9FBCDB" font-size="12" font-weight="500" font-family="Arial, sans-serif" letter-spacing="1.3">CONCEPTUAL SHOWCASE  /  NOT ACTUAL UNITY SCREENSHOTS</text>
+<text x="1544" y="830" fill="#E4C78C" font-size="12" font-weight="500" font-family="Arial, sans-serif" text-anchor="end" letter-spacing="1.5">SOCIAL LOBBY  •  CLIENT FRAMEWORK</text>
+</svg>
