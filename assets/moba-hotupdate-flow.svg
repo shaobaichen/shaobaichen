@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="810" viewBox="0 0 1600 810" role="img" aria-label="VersionManager 客户端资源更新代码流程示意图，包含版本检查、文件清单、差异比对、断点下载、本地资源读取，以及待完善项">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071428"/><stop offset=".65" stop-color="#0B2346"/><stop offset="1" stop-color="#0C1A35"/></linearGradient><linearGradient id="card" x2="0" y2="1"><stop stop-color="#17345E"/><stop offset="1" stop-color="#0B1E3C"/></linearGradient><linearGradient id="chip" x2="1"><stop stop-color="#916A3C"/><stop offset=".5" stop-color="#F0D69D"/><stop offset="1" stop-color="#B48751"/></linearGradient><pattern id="mesh" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0 H0 V44" fill="none" stroke="#396DA2" stroke-opacity=".19"/></pattern><marker id="arr" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto"><path d="M0 0 L11 4 L0 8" fill="none" stroke="#66C9FA" stroke-width="1.7"/></marker></defs>
+<rect width="1600" height="810" fill="url(#bg)"/><rect width="1600" height="810" fill="url(#mesh)"/><rect x="18" y="18" width="1564" height="772" rx="16" fill="none" stroke="#B5915B" stroke-width="2"/>
+
+<path d="M30 70 V30 H85 M1570 70 V30 H1515 M30 740 V780 H85 M1570 740 V780 H1515" stroke="#E1BD82" stroke-width="3" fill="none"/>
+<text x="60" y="91" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="52" font-weight="700" letter-spacing="0" fill="#F2D59E" text-anchor="start">04  /  HOT UPDATE FLOW</text>
+<text x="62" y="134" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" letter-spacing="0" fill="#A4D2FA" text-anchor="start">VersionManager  ·  AssetBundle  ·  Lua Script Sources</text>
+<rect x="1206" y="58" width="305" height="55" rx="11" fill="#0C2A4D" stroke="#4C89B3" stroke-width="1"/>
+<text x="1357" y="94" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="700" letter-spacing="1" fill="#C1DFF7" text-anchor="middle">CODE FLOW  /  PROTOTYPE</text>
+<path d="M60 169 L1540 169" fill="none" stroke="#B78E59" stroke-width="2" />
+<rect x="49" y="224" width="252" height="284" rx="14" fill="url(#card)" stroke="#407CAD" stroke-width="2"/>
+<rect x="67" y="240" width="53" height="46" rx="9" fill="url(#chip)" stroke="none" stroke-width="1"/>
+<text x="93" y="272" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" letter-spacing="0" fill="#142B49" text-anchor="middle">01</text>
+<text x="71" y="326" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#FFFFFF" text-anchor="start">版本检查</text>
+<path d="M71 346 L279 346" fill="none" stroke="#3E76A6" stroke-width="1" />
+<text x="71" y="388" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#BDD7EF" text-anchor="start">本地 version.txt</text>
+<text x="71" y="420" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#9FBFE1" text-anchor="start">请求远端 version.txt</text>
+<circle cx="174" cy="470" r="23" fill="#123A68" stroke="#5AC3F8" stroke-width="2"/>
+<path d="M 163 463 A16 16 0 0 1 185 463 M186 463 L179 461 M186 463 L186 456" stroke="#CBE9FF" stroke-width="2" fill="none"/>
+<path d="M308 365 L349 365" fill="none" stroke="#63C2F7" stroke-width="2.4" marker-end="url(#arr)"/>
+<rect x="362" y="224" width="252" height="284" rx="14" fill="url(#card)" stroke="#407CAD" stroke-width="2"/>
+<rect x="380" y="240" width="53" height="46" rx="9" fill="url(#chip)" stroke="none" stroke-width="1"/>
+<text x="406" y="272" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" letter-spacing="0" fill="#142B49" text-anchor="middle">02</text>
+<text x="384" y="326" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#FFFFFF" text-anchor="start">读取更新清单</text>
+<path d="M384 346 L592 346" fill="none" stroke="#3E76A6" stroke-width="1" />
+<text x="384" y="388" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#BDD7EF" text-anchor="start">请求 files.txt</text>
+<text x="384" y="420" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#9FBFE1" text-anchor="start">获得文件名 / 大小 / 字段</text>
+<circle cx="487" cy="470" r="23" fill="#123A68" stroke="#5AC3F8" stroke-width="2"/>
+<path d="M475 459 L497 459" fill="none" stroke="#CBE9FF" stroke-width="2" />
+<path d="M475 470 L497 470" fill="none" stroke="#CBE9FF" stroke-width="2" />
+<path d="M475 481 L497 481" fill="none" stroke="#CBE9FF" stroke-width="2" />
+<path d="M621 365 L662 365" fill="none" stroke="#63C2F7" stroke-width="2.4" marker-end="url(#arr)"/>
+<rect x="675" y="224" width="252" height="284" rx="14" fill="url(#card)" stroke="#407CAD" stroke-width="2"/>
+<rect x="693" y="240" width="53" height="46" rx="9" fill="url(#chip)" stroke="none" stroke-width="1"/>
+<text x="719" y="272" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" letter-spacing="0" fill="#142B49" text-anchor="middle">03</text>
+<text x="697" y="326" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#FFFFFF" text-anchor="start">差异判断</text>
+<path d="M697 346 L905 346" fill="none" stroke="#3E76A6" stroke-width="1" />
+<text x="697" y="388" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#BDD7EF" text-anchor="start">比对本地资源</text>
+<text x="697" y="420" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#9FBFE1" text-anchor="start">当前校验逻辑为简化实现</text>
+<circle cx="800" cy="470" r="23" fill="#123A68" stroke="#5AC3F8" stroke-width="2"/>
+<path d="M790 470 L797 477 L812 460" fill="none" stroke="#D9EAF5" stroke-width="3"/>
+<path d="M934 365 L975 365" fill="none" stroke="#63C2F7" stroke-width="2.4" marker-end="url(#arr)"/>
+<rect x="988" y="224" width="252" height="284" rx="14" fill="url(#card)" stroke="#407CAD" stroke-width="2"/>
+<rect x="1006" y="240" width="53" height="46" rx="9" fill="url(#chip)" stroke="none" stroke-width="1"/>
+<text x="1032" y="272" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" letter-spacing="0" fill="#142B49" text-anchor="middle">04</text>
+<text x="1010" y="326" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#FFFFFF" text-anchor="start">下载与写入</text>
+<path d="M1010 346 L1218 346" fill="none" stroke="#3E76A6" stroke-width="1" />
+<text x="1010" y="388" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#BDD7EF" text-anchor="start">HTTP Range + .tmp</text>
+<text x="1010" y="420" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#9FBFE1" text-anchor="start">写入 persistentDataPath</text>
+<circle cx="1113" cy="470" r="23" fill="#123A68" stroke="#5AC3F8" stroke-width="2"/>
+<path d="M1113 456 V478 M1104 468 L1113 478 L1122 468 M1100 484 H1126" stroke="#D9EAF5" stroke-width="2.5" fill="none"/>
+<path d="M1247 365 L1288 365" fill="none" stroke="#63C2F7" stroke-width="2.4" marker-end="url(#arr)"/>
+<rect x="1301" y="224" width="252" height="284" rx="14" fill="url(#card)" stroke="#407CAD" stroke-width="2"/>
+<rect x="1319" y="240" width="53" height="46" rx="9" fill="url(#chip)" stroke="none" stroke-width="1"/>
+<text x="1345" y="272" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" letter-spacing="0" fill="#142B49" text-anchor="middle">05</text>
+<text x="1323" y="326" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#FFFFFF" text-anchor="start">切换资源读取</text>
+<path d="M1323 346 L1531 346" fill="none" stroke="#3E76A6" stroke-width="1" />
+<text x="1323" y="388" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#BDD7EF" text-anchor="start">更新本地版本记录</text>
+<text x="1323" y="420" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#9FBFE1" text-anchor="start">调用 SetBasePath</text>
+<circle cx="1426" cy="470" r="23" fill="#123A68" stroke="#5AC3F8" stroke-width="2"/>
+<path d="M1414 461 L1426 454 L1438 461 V480 L1426 487 L1414 480 Z" fill="none" stroke="#D9EAF5" stroke-width="2"/>
+<rect x="48" y="557" width="1504" height="106" rx="12" fill="#0D2C50" stroke="#3978AD" stroke-width="1.5"/>
+<text x="70" y="592" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" letter-spacing="0" fill="#E8CCA0" text-anchor="start">当前工程中的代码执行链</text>
+<text x="70" y="629" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" letter-spacing="0" fill="#C9E5FA" text-anchor="start">StartUpdate()   →   CheckVersion()   →   DownloadFileList()   →   DownloadFiles()   →   SetBasePath()</text>
+<rect x="48" y="688" width="1504" height="66" rx="10" fill="#2B2230" stroke="#B88B55" stroke-width="1.4"/>
+<text x="70" y="715" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" letter-spacing="0" fill="#F8D69D" text-anchor="start">注意  /  待完善</text>
+<text x="70" y="739" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#E3C8B4" text-anchor="start">files.txt 哈希字段为占位值；下载失败处理、文件完整性校验、运行时 Lua 缓存刷新仍需完善。</text>
+<text x="1542" y="779" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#A4BDD5" text-anchor="end">静态代码流程示意 · 非实时热更新截图</text>
+</svg>

@@ -73,6 +73,39 @@
 
 <sub>图为根据项目模块绘制的概念化 UI 展柜，非 Unity 实机运行截图，具体界面和数据仅用于示意。仓库目前保持 Private；待代码、资源授权和公开展示资料核对完成后，再提供可供访客访问的源码入口。</sub>
 
+<!-- MOBA REAL SHOWCASE BEGIN -->
+
+#### 📸 Real Unity Screenshots · 实机界面展示
+
+<a href="assets/moba-gallery-overview.webp"><img src="assets/moba-gallery-overview.webp" alt="MOBA 社交大厅真实运行截图组合：登录界面、大厅与好友私聊；布局与标签为作品集排版" width="100%" /></a>
+
+<sub>三张截图均来自原 Unity 工程实际运行画面，仅进行裁切、等比缩放和轻微清晰度处理，未重绘按钮、文字或业务结果。展示图片中使用的游戏相关美术素材版权属于各自权利人。</sub>
+
+<details>
+<summary>🔎 查看三张独立实机截图与热更新技术流程图</summary>
+
+**登录界面 / Login**
+
+<a href="assets/moba-real-login.webp"><img src="assets/moba-real-login.webp" alt="真实 Unity 登录与注册界面" width="100%" /></a>
+
+**玩家大厅 / Hall & Friends**
+
+<a href="assets/moba-real-hall.webp"><img src="assets/moba-real-hall.webp" alt="真实 Unity 大厅与好友在线状态界面" width="100%" /></a>
+
+**好友私聊 / Private Chat**
+
+<a href="assets/moba-real-chat.webp"><img src="assets/moba-real-chat.webp" alt="真实 Unity 好友私聊界面，两名测试账号的消息示例" width="100%" /></a>
+
+**热更新实现流程 / Hot Update Architecture**
+
+<img src="assets/moba-hotupdate-flow.svg" alt="基于当前 VersionManager 代码的版本检查、清单、差异比对、下载和资源读取切换流程图" width="100%" />
+
+<sub>技术流程图来自代码静态梳理，并非运行时成功更新的截图。文件完整性校验、下载失败处理与运行时 Lua 缓存刷新仍有待完善。</sub>
+
+</details>
+
+<!-- MOBA REAL SHOWCASE END -->
+
 ---
 
 ## 🗂️ More Creations · 更多创作
