@@ -77,17 +77,45 @@
 
 ---
 
+<br>
+
+### 04 · Roguelike Card Game · 卡牌构筑与随机地图
+
+<a href="https://github.com/shaobaichen/Roguelike-CardGame-Source"><img src="assets/rogue-battle.webp" alt="Roguelike 卡牌项目真实 Unity 战斗截图：回合状态、角色、敌人和四张手牌" width="100%" /></a>
+
+**Unity Roguelike 卡牌构筑玩法原型**　`Unity` `C#` `ScriptableObject` `UGUI` `DOTween` `事件系统` `Public Source`
+
+基于 Unity 制作的卡牌构筑与分支路线探索原型。已编写**抽牌与弃牌管理、卡牌拖拽和效果组合、回合战斗、敌人行动、随机分支地图、房间交互与战斗后奖励**等模块，重点实践以 ScriptableObject 配置玩法数据、以多态组合卡牌效果，并用事件与管理器组织游戏流程。
+
+<p align="center">
+  <img src="assets/rogue-map.webp" alt="Unity 实际游戏中的 Roguelike 分支地图与房间路线" width="49%" />
+  <img src="assets/rogue-rewards.webp" alt="Unity 实际游戏中的三选一卡牌奖励界面" width="49%" />
+</p>
+
+<sub>左：随机路线与房间节点 · 右：战斗后的卡牌奖励。以上均来自原 Unity 工程截图。</sub>
+
+<details>
+<summary>📷 查看休息房间界面</summary>
+
+<img src="assets/rogue-rest.webp" alt="Unity 实际游戏中的休息房间场景与操作界面" width="100%" />
+
+</details>
+
+**🔗 [查看 Roguelike-CardGame-Source：65 个 C# 脚本、模块结构与中文技术说明 →](https://github.com/shaobaichen/Roguelike-CardGame-Source)**
+
+<sub>图片仅裁去 Unity 编辑器外框，并进行等比例缩放和压缩；未改写游戏中的角色、数值或卡牌文案。此作品为学习与实践阶段的玩法原型，不等于已发行游戏。图片中第三方美术素材的版权仍归原权利人；公开仓库仅包含代码快照，并非可直接运行的完整 Unity 工程。</sub>
+
+---
+
 ## 🗂️ More Creations · 更多创作
 
-<table>
-<tr>
-<td width="50%" align="center"><img src="assets/mini-rogue.webp" alt="Roguelike 卡牌构筑游戏主题小展柜" width="100%" /><br><b>Roguelike 卡牌</b><br><sub>ScriptableObject · 卡牌构筑</sub><br><sub>资料整理中</sub></td>
-<td width="50%" align="center"><img src="assets/mini-ai.webp" alt="AI 工作流研究主题小展柜" width="100%" /><br><b>AI 开发探索</b><br><sub>Agent · 工作流 · 开发工具</sub><br><sub>持续研究中</sub></td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/mini-ai.webp" alt="AI 工作流研究主题小展柜" width="49%" />
 
-这些创作的展示资料仍在整理中；等仓库或演示页面准备好后，会补上可访问的链接。
+**AI 开发探索** · `Agent` `工作流` `开发工具`
 
+<sub>持续研究中 · 后续整理独立技术展示</sub>
+</div>
 ## 🛠️ Tech Stack · 技术与工具
 
 `Unity` · `C#` · `Lua / xLua` · `TCP / Protobuf` · `UGUI` · `AssetBundle` · `Git` · `C++ / LeetCode`
