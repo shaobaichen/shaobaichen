@@ -65,13 +65,15 @@
 
 <img src="assets/moba-social-lobby-exhibit-v1.svg" alt="MOBA Client Framework 社交大厅客户端框架概念展柜：登录与大厅、好友在线状态和私聊，以及 TCP、Protobuf、xLua、AssetBundle 架构模块" width="100%" />
 
-**Unity 社交大厅与客户端基础框架 Demo**　`Unity 6` `C# / xLua` `TCP` `Protobuf` `AssetBundle` `Private / 尚未公开`
+**Unity 社交大厅与客户端基础框架 Demo**　`Unity 6` `C# / xLua` `TCP` `Protobuf` `AssetBundle` `Public Source / 完整工程私有`
 
 这个项目聚焦游戏的**客户端大厅与社交体验**：注册登录、玩家信息展示、好友申请与在线状态、私聊和消息推送；底层按 UI、Lua 业务、网络与资源管理分层，并使用 MockServer 验证客户端交互链路。
 
 技术侧重点是 **C# 与 xLua 协作、TCP 长连接及 Protobuf 消息路由、AssetBundle 资源管理和版本更新流程**。它是客户端系统实践，不是已经完成英雄战斗、匹配或完整 MOBA 对局的游戏。
 
-<sub>图为根据项目模块绘制的概念化 UI 展柜，非 Unity 实机运行截图，具体界面和数据仅用于示意。仓库目前保持 Private；待代码、资源授权和公开展示资料核对完成后，再提供可供访客访问的源码入口。</sub>
+**🔗 [查看 MOBA-Client-Framework-Source：公开源码、模块结构与技术说明 →](https://github.com/shaobaichen/MOBA-Client-Framework-Source)**
+
+<sub>上方展柜图是基于项目模块制作的概念设计，非 Unity 实机截图。下方提供原工程真实运行画面。公开仓库仅包含整理后的 C#、Lua、Protobuf 等源码及说明，不是可直接运行的完整 Unity 项目；原始工程、第三方插件和美术资源继续保留在私有仓库。</sub>
 
 <!-- MOBA REAL SHOWCASE BEGIN -->
 
